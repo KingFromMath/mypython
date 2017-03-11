@@ -1,0 +1,30 @@
+{
+  "select":"select ",
+  "from":"from ",
+  "all":"* ",
+  "over":"over ",
+
+  "partition":"partition by ",
+  "order":"order by ",
+
+  "win_current":"rows between unbounded preceding and current row ",
+  "win_following":"rows between unbounded preceding and unbounded following ",
+  "win_num":"between 2 preceding and 2 following",
+
+  "first_value":"first_value ",
+  "last_value":"last_value",
+  "row_number":"row_number() ",
+
+  "lag":"lag",
+  "lead":"lead",
+  "nth_value":"nth_value",
+  "rank":"rank",
+  "dense_rank":"denses_rank",
+  "percent_rank":"pecent_rank",
+  "cume_dist":"cume_dist",
+  "ntile":"ntile",
+
+  "from_first":"from first",
+  "from_last":"from last"
+
+}
